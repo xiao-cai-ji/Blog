@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "thymeleaf.prefix",
+      "type": "java.lang.String",
+      "description": "Description for thymeleaf.prefix."
+    },
+    {
+      "name": "thymeleaf.check-template-location",
+      "type": "java.lang.String",
+      "description": "Description for thymeleaf.check-template-location."
+    }
+  ] }
