@@ -10,12 +10,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
-      <module name="Blog" target="11" />
+      <module name="Blog" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Blog" options="-parameters" />
+      <module name="Blog" options="" />
     </option>
   </component>
 </project>
